@@ -1,1 +1,1 @@
-# OSPrac_Lab1
+# OSPrac
