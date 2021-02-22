@@ -18,7 +18,7 @@ exit(-1);
 size = write(fd, "Hello, world!", 14);
 printf("It was wrote to fifo\n");
 if(size != 14) {
-printf("Writing to fifo is failed\n");
+printf("Writing to fifo is failed \n");
 exit(-1);
 }
 close(fd);
