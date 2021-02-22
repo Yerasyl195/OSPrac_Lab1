@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <signal.h>
 #include <fcntl.h>
+#include <stdlib.h>
 
 int result = 0;
 
