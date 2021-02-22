@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 int main() {
-int fd, result; size_t size; char resstring[14]; char name[]="";
+int fd, result; size_t size; char resstring[14]; char name[]="yerasyl.fifo";
 (void)umask(0);
 
 printf("Writing data to fifo\n");
